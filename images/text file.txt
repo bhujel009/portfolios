@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Isha Karmacharya | Architecture & Interior Design</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- Font Awesome for Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+
+<nav class="navbar">
+
+<div class="container nav-container">
+
+<a href="index.html" class="logo">
+HOME
+</a>
+
+<ul class="nav-links">
+
+<li><a href="work.html">Work</a></li>
+
+<li><a href="about.html">About</a></li>
+
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+<div class="menu-btn" id="menuBtn">
+☰
+</div>
+
+</div>
+
+</nav>
+
+<!-- HERO -->
+
+<section class="hero">
+
+<div class="hero-overlay"></div>
+
+<div class="hero-content">
+
+<div class="hero-tag">
+ARCHITECTURE • INTERIOR DESIGN • LANDSCAPE
+</div>
+
+<h1>
+Designing spaces
+that inspire.
+</h1>
+
+<p>
+Creating timeless architecture and interiors through
+thoughtful design, natural materials, and meaningful
+human experiences.
+</p>
+
+<div class="hero-buttons">
+
+<a href="work.html" class="btn-primary">
+View Projects
+</a>
+
+<a href="contact.html" class="btn-secondary">
+Start a Project
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- STATS -->
+
+<section class="stats">
+
+<div class="container stats-grid">
+
+<div class="stat-item">
+<h2>25+</h2>
+<p>Projects Completed</p>
+</div>
+
+<div class="stat-item">
+<h2>8+</h2>
+<p>Years Experience</p>
+</div>
+
+<div class="stat-item">
+<h2>5</h2>
+<p>Countries Worked In</p>
+</div>
+
+</div>
+
+</section>
+
+<!-- FEATURED PROJECTS -->
+
+<section class="featured">
+
+<div class="container">
+
+<div class="section-header">
+
+<span>FEATURED PROJECTS</span>
+
+<h2>Selected Work</h2>
+
+<p>
+A curated collection of architecture,
+interiors and public spaces.
+</p>
+
+</div>
+
+<div class="project-grid">
+
+<div class="project-card">
+
+<img
+src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+alt="Project">
+
+<div class="project-info">
+
+<h3>Courtyard House</h3>
+
+<p>Residential Architecture</p>
+
+<a href="courtyard-house.html">
+View Project →
+</a>
+
+</div>
+
+</div>
+
+<div class="project-card">
+
+<img
+src="https://images.unsplash.com/photo-1600210492493-0946911123ea"
+alt="Project">
+
+<div class="project-info">
+
+<h3>Apartment Reset</h3>
+
+<p>Interior Design</p>
+
+<a href="apartment-reset.html">
+View Project →
+</a>
+
+</div>
+
+</div>
+
+<div class="project-card">
+
+<img
+src="https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b"
+alt="Project">
+
+<div class="project-info">
+
+<h3>Riverside Pavilion</h3>
+
+<p>Public Architecture</p>
+
+<a href="riverside-pavilion.html">
+View Project →
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- SERVICES -->
+
+<section class="services">
+
+<div class="container">
+
+<div class="section-header">
+
+<span>SERVICES</span>
+
+<h2>What I Do</h2>
+
+</div>
+
+<div class="services-grid">
+
+<div class="service-card">
+
+<h3>Architecture</h3>
+
+<p>
+Residential and commercial architecture
+from concept to completion.
+</p>
+
+</div>
+
+<div class="service-card">
+
+<h3>Interior Design</h3>
+
+<p>
+Creating functional and inspiring interior
+environments.
+</p>
+
+</div>
+
+<div class="service-card">
+
+<h3>Landscape Design</h3>
+
+<p>
+Integrating architecture and nature through
+thoughtful outdoor spaces.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- CTA -->
+
+<section class="cta">
+
+<div class="container">
+
+<h2>
+Let's Build Something Extraordinary
+</h2>
+
+<p>
+Have a project in mind?
+Let's discuss your vision.
+</p>
+
+<a href="contact.html" class="btn-primary">
+Start Your Project
+</a>
+
+</div>
+
+</section>
+
+<!-- FOOTER -->
+
+<footer class="footer">
+
+<div class="container footer-grid">
+
+<div>
+
+<h3>Isha Karmacharya</h3>
+
+<p>
+Architecture & Interior Design Studio
+</p>
+
+</div>
+
+<div>
+
+<h4>Explore</h4>
+
+<a href="work.html">Work</a>
+
+<a href="about.html">About</a>
+
+<a href="contact.html">Contact</a>
+
+</div>
+
+<div>
+
+<h4>Connect</h4>
+
+<a href="https://www.instagram.com/isha_karmacharya_/" target="_blank">
+<i class="fab fa-instagram"></i> Instagram
+</a>
+
+<a href="#" target="_blank">
+<i class="fab fa-linkedin"></i> LinkedIn
+</a>
+
+<a href="mailto:ishakarmacharya123@gmail.com">
+
+<i class="far fa-envelope"></i> ishakarmacharya123@gmail.com
+
+</a>
+
+</div>
+
+</div>
+
+<div class="footer-bottom">
+
+© <span id="year"></span> Isha Karmacharya.
+All Rights Reserved.
+
+</div>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
